@@ -10,7 +10,9 @@ See the [Releases](https://github.com/trans-realities-lab-org/xr-it-releases/rel
 
 Each release attaches a single installer:
 
-- `XRIT.Client.Setup.exe` — XR-IT Client (Runtime + Manager)
-- `XRIT.Orchestrator.Setup.exe` — XR-IT Orchestrator (Runtime + Manager)
+- `XRIT.Client.Setup-<version>.exe`, for example `XRIT.Client.Setup-2.4.0.exe`: XR-IT Client (Runtime + Manager)
+- `XRIT.Orchestrator.Setup-<version>.exe`, for example `XRIT.Orchestrator.Setup-2.4.0.exe`: XR-IT Orchestrator (Runtime + Manager)
+
+Releases before 2.4.0 use `XRIT.Client.Setup.exe` and `XRIT.Orchestrator.Setup.exe`.
 
 The release notes for each version are copied from the main repository.
